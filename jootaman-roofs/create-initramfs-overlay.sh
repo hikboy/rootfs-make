@@ -41,6 +41,8 @@ cd -
 
 cat initramfs.cpio | gzip > initramfs.igz
 
+gzip initramfs.cpio
+
 exit 0
 
 

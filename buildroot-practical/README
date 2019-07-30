@@ -1,0 +1,14 @@
+
+** how to download buildroot sources fast
+
+0. use the same version with local
+run script bd.sh and set up dl dir
+
+1. use a vps download all the source files
+make source
+
+2. use rsync tool sync the local dl with remote dl
+
+3. run bd.sh and set up dl dir
+
+4. make
